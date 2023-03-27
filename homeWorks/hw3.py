@@ -98,3 +98,4 @@ pro.balance_set(100)
 print(pro.balance())
 pro2.balanc = 122
 print(pro2.balanc)
+# beka\scripts\activate
